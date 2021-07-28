@@ -1,2 +1,2 @@
-# Parallet
+# Parallel
 Parallel
